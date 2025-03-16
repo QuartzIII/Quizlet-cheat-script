@@ -1,2 +1,2 @@
-document.getElementsByClassName("UIButton UIButton--hero")[0].click();
+document.getElementsByClassName("AssemblyButtonBase AssemblyPrimaryButton--default AssemblyButtonBase--xlarge AssemblyButtonBase--padding")[0].click();
 setTimeout(function(){for(var F = setTimeout(";"), i = 0; i < F; i++) clearTimeout(i)}, 5300); //Change 5300 to the number of seconds followed by 3 zeros.
